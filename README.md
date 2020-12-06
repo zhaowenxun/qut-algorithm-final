@@ -1,2 +1,3 @@
 # qut-algorithm-final
-大三上算法期末考试整理
+QUT/OS/algorithm期末考试整理
+ps:用英语是防止同学copy 😂
